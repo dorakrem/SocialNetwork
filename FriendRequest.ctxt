@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=FriendRequest
+comment1.params=u1\ u2
+comment1.target=FriendRequest(User,\ User)
+comment2.params=s
+comment2.target=void\ accept(int)
+comment3.params=s
+comment3.target=void\ reject(int)
+comment4.params=
+comment4.target=void\ show()
+numComments=5

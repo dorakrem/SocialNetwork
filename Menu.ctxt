@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=u1\ n2
+comment1.target=Menu(User,\ Network)
+comment2.params=
+comment2.target=void\ show()
+comment3.params=
+comment3.target=int\ run()
+numComments=4

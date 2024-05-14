@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Message
+comment1.params=
+comment1.target=Message()
+comment2.params=u1
+comment2.target=void\ set(User)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=
+comment4.target=void\ UserLikes()
+comment5.params=u2
+comment5.target=void\ reply(User)
+comment6.params=u2
+comment6.target=void\ like(User)
+comment7.params=
+comment7.target=int\ Num_of_Likes()
+numComments=8
